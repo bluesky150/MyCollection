@@ -3,7 +3,6 @@ sudo apt-get remove docker docker-engine docker.io containerd runc
 
 sudo apt-get update
 
-#Test
 
 sudo apt-get install \
     ca-certificates \
