@@ -111,4 +111,4 @@ nulink/nulink nulink ursula init \
 --payment-provider https://data-seed-prebsc-2-s2.binance.org:8545/ \
 --payment-network bsc_testnet \
 --operator-address yyyyyyyyyyyyyyy \
---max-gas-price 100
+--max-gas-price 1000
