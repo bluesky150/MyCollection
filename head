@@ -9,7 +9,7 @@ sudo apt-get install
     curl \
     gnupg \
     #release path \
-    lsb-release \
+    lsb-release
 
 
 sudo mkdir -p /etc/apt/keyrings
