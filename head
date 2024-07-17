@@ -8,7 +8,7 @@ sudo apt-get install
     ca-certificates
     curl \
     gnupg \
-    #release path
+    #release path\
     lsb-release \
 
 
